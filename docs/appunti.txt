@@ -6,7 +6,7 @@ Per attivare il virtual env.
 
 #01)Apri terminal e dai i comandi:
 py -3 -m venv .venv
-.venv\scripts\activateN
+.venv\scripts\activate
 
 Se si solleva un errore vedi la nota sotto.
 Viene creata una cartella .venv dove inserire il codice.
